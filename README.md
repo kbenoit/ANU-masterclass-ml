@@ -1,12 +1,20 @@
-# Text Analysis Using quanteda
+# Machine Learning for Political Science
+
+[Kenneth Benoit](https://kenbenoit.net)  
+School of Politics and International Relations
+
+## Slides
+
+Slides will be available from this link: **TBC**.
 
 ## Exercises
 
-This repository contains files and dataset for exercises for the workshop held at the **University of Bremen,   30 Sept - 2 Oct, 2020**.
+This repository contains files and dataset for exercises for the masterclass workshop taking place
+29-30 October, 2020, from 15:30-18:00 Canberra time.
 
 ### How to Use
 
-We recommend that you start by cloning the repository to your local system.  You can do this straight from RStudio, using "New Project", then from the New Project Wizard, select "Version Control" as the source, then "Git".  Paste "https://github.com/kbenoit/bremen-workshop" into the "Repository URL:" field.  Choose your preferred local parent directory from the bottom field.  Use the "Create Project" button to create the project and clone the repo locally.
+I recommend that you start by cloning the repository to your local system.  You can do this straight from RStudio, using "New Project", then from the New Project Wizard, select "Version Control" as the source, then "Git".  Paste "https://github.com/kbenoit/ANU-masterclass-ml" into the "Repository URL:" field.  Choose your preferred local parent directory from the bottom field.  Use the "Create Project" button to create the project and clone the repo locally.
 
 ### Refreshing the repo
 
