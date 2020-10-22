@@ -12,7 +12,9 @@ Slides will be available from this link: **TBC**.
 This repository contains files and dataset for exercises for the masterclass workshop taking place
 29-30 October, 2020, from 15:30-18:00 Canberra time.
 
-### How to Use
+## How to Use
+
+### Cloning the repo
 
 I recommend that you start by cloning the repository to your local system.  You can do this straight from RStudio, using "New Project", then from the New Project Wizard, select "Version Control" as the source, then "Git".  Paste "https://github.com/kbenoit/ANU-masterclass-ml" into the "Repository URL:" field.  Choose your preferred local parent directory from the bottom field.  Use the "Create Project" button to create the project and clone the repo locally.
 
