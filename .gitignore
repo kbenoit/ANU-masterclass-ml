@@ -4,3 +4,5 @@
 .Ruserdata
 *.Rproj
 bremen-workshop.Rproj
+README.html
+.DS_Store
