@@ -1,2 +1,4 @@
-*.md
+lecture/
+lecture/*
+.DS_Store
 
